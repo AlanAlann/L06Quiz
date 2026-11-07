@@ -1,7 +1,7 @@
 # App Name
 Football Players quiz.
-Its a quiz to find out the correct players Name.
-[//]: # (A brief description of the mobile application and its purpose.)
+It's a quiz to find out the correct players Name.
+ (A brief description of the mobile application and its purpose.)
 
 # Features Highlight
 It will guess the players name and give the appropriate points for each correct answer of the players name. 
